@@ -75,5 +75,7 @@ This project is inspired by the need to classify car brand logos and demonstrate
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
+## What I learn from doing this project
+- I have tried image processing many times but I could not get something useful. This is no different, it isn't the best model but I did my best.
+- I still have so much to cover in image classification,this project is my first time doing it with neural networks
 ---
